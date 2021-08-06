@@ -43,7 +43,7 @@
 
 ### Watched
 
-[Pushing Paraphrase Away from Original Sentence: A Multi-Round Paraphrase Generation Approach (Lin 21)](Pushing_Paraphrase_Away_from_Original_Sentence_A_Multi-Round Paraphrase_Generation_Approach.md)
+[notesPushing Paraphrase Away from Original Sentence: A Multi-Round Paraphrase Generation Approach (Lin 21)](reading_notes/Pushing_Paraphrase_Away_from_Original_Sentence_A_Multi-Round Paraphrase_Generation_Approach.md)
 
 > Propose to sequentially paraphrase sentences in order to increase diversity while keeping semantics using back-translation.
 
